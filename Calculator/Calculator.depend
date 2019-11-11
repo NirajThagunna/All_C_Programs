@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529125465 source:c:\users\niraj thagunna\desktop\let's c\calculator\main.c
+	<stdio.h>
+	<conio.h>
+

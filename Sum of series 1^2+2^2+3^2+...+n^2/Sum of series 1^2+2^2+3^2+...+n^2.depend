@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529988576 source:c:\users\niraj thagunna\desktop\let's c\sum of series 1^2+2^2+3^2+...+n^2\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

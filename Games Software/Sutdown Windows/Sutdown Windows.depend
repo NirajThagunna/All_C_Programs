@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530503500 source:c:\users\niraj thagunna\desktop\games software\sutdown windows\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
